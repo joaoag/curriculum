@@ -21,7 +21,6 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * Add your solution below this line!
 * [nmac's solution](https://github.com/nmacawile/old-apple-layout) - [Preview](https://htmlpreview.github.io/?https://github.com/nmacawile/old-apple-layout/blob/master/index.html)
 * [Henry Kirya's](https://github.com/harrika/appo) - [View in Browser](https://harrika.github.io/appo/)
-* [joaoag's solution](https://github.com/joaoag/google-homepage) - [View in Browser](https://joaoag.github.io/google-homepage/)
 * [theghall's solution](https://github.com/theghall/odin-apple) - [View in Browser](https://theghall.github.io/odin-apple/)
 * [Jmooree30's Solution](https://github.com/jmooree30/apple-clone) - [View in Browser](https://jmooree30.github.io/apple-clone/)
 * [Jonathan Yiv's Solution](https://github.com/JonathanYiv/old-apple-homepage) - [View in Browser](http://jonathanyiv.com/old-apple-homepage/)
